@@ -1,7 +1,21 @@
-
 # Introduce
+Time series procedure by facebook.
+## Formula
+$$
+\hat{y}(t) = g(t) + s(t) + h(t) + \epsilon(t)
+$$
+## Trend
+### Nolinear
+### Linear
+## Seasonality
+### Additive
+### Multipltive
+## ChangePoint
+## Holiday
 # Questions
-1. ChangePoints: 如何来确定是ChangePoint的？标准是什么？
+1. ChangePoints: 
+	1. how to know what is the ChangePoint?
+	2. what is the standard?
 
 # Reference
 1. [Time series prediction using Prophet in Python](https://towardsdatascience.com/time-series-prediction-using-prophet-in-python-35d65f626236)

@@ -1,3 +1,2 @@
 # ObsidianDocs
 For Obsidian client.
-
