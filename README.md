@@ -1,0 +1,2 @@
+# ObsidianDocs
+For Obsidian client.
