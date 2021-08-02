@@ -12,6 +12,9 @@ $$
 ### Multipltive
 ## ChangePoint
 ## Holiday
+## [[Cross Validation For Time Series]]
+## [[Gradient Functions]]
+### B-LBFGS
 # Questions
 1. ChangePoints: 
 	1. how to know what is the ChangePoint?
