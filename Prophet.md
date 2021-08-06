@@ -14,7 +14,9 @@ $$
 ## Holiday
 ## [[Cross Validation For Time Series]]
 ## [[Gradient Functions]]
-### B-LBFGS
+### [[B-LBFGS]]
+# [[Stan]]
+  Prophet 内部计算就是通过Stan来完成。
 # Questions
 1. ChangePoints: 
 	1. how to know what is the ChangePoint?

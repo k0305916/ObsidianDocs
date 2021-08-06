@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7f2d519da0c2a302",
+        "id": "99f479c9bd41948c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "ARIMA.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "ARIMA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7f2d519da0c2a302",
+  "active": "99f479c9bd41948c",
   "lastOpenFiles": [
-    "README.md",
-    "Cross Validation For Time Series.md",
-    "Gradient Functions.md",
-    "Prophet.md",
-    "That Top10.md",
+    "ARIMA.md",
     "未命名.md",
-    "Gradient Function.md",
-    "Cross Validation.md",
-    "Demo.md",
-    "Untitled.md"
+    "ACF(autocorrelation function) && PACF(partial autocorrelation function function).md",
+    "Pasted image 20210806171708.png",
+    "Pasted image 20210806171008.png",
+    "Auto ARIMA.md",
+    "AICc.md",
+    "AIC.md",
+    "ACF.md",
+    "Stan.md"
   ]
 }
